@@ -1,11 +1,17 @@
 # M17_ANL_v2
 New M17 hotspot/analyser, this time with ADF7021
 
+## Photos
+
+![Top of the M17_ANL_v2](aw.jpg)
+
+
+![Bottom of the M17_ANL_v2](rw.jpg)
+
 ## Schematic
 Diagram was not tested yet.
 However, schematic and PCB layout is still work in progress.
-PCB design was put into production in 1 February 2020.
-Testing will take aprox. 2 months.
+First prototyped manufactured - firmware writing is still in progress.
 
 ## Technical details
 
